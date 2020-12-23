@@ -1,8 +1,8 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, Params } from '@angular/router';
 import { Observable } from 'rxjs';
-import { AddBookService } from 'src/app/add-book/add-book.service';
-import { Book } from 'src/app/shared/Book.model';
+import { AddBookService } from '../../add-book/add-book.service';
+import { Book } from '../../shared/Book.model';
 
 @Component({
   selector: 'app-book-detail',

@@ -1,5 +1,5 @@
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
-import { Book } from 'src/app/shared/Book.model';
+import { Book } from '../../shared/Book.model';
 import { AddBookService } from '../add-book.service';
 
 @Component({
