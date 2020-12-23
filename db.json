@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Yash",
+      "Lastname": "Ghawghawe",
+      "email": "yash.ghawghawe@gmail.com",
+      "book": "Two states",
+      "region": "Asia",
+      "dob": "10/11/1997",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur"
+    },
+    {
+      "firstName": "Yash",
+      "lastName": "Ghawghawe",
+      "email": "yashghwaghave@gmail.com",
+      "book": "Life is what you make it",
+      "region": "Asia",
+      "dob": "1997-11-10",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 2
+    },
+    {
+      "firstName": "Kalpesh",
+      "lastName": "ukey",
+      "email": "kalpesh.ukey@gmail.com",
+      "book": "Life is what you make it",
+      "dob": "1997-12-14",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Life is what you make it",
+      "author": "preeti Sheenoy",
+      "quantity": 10
+    },
+    {
+      "name": "Half GirlFriend",
+      "author": "Chetan Bhagat",
+      "imagepath": "https://upload.wikimedia.org/wikipedia/en/c/c6/Half_Girlfriend.jpg",
+      "id": 3
+    },
+    {
+      "name": "Revolution  2020",
+      "author": "Chetan Bhagat",
+      "imagepath": "https://upload.wikimedia.org/wikipedia/en/4/44/Revolution_2020.jpg",
+      "id": 4
+    },
+    {
+      "name": "Harry Potter",
+      "author": "william Wallace",
+      "imagepath": "NA",
+      "id": 5
+    },
+    {
+      "name": "50 shades",
+      "author": "chetan",
+      "imagepath": "NA",
+      "id": 6
+    }
+  ]
+}
